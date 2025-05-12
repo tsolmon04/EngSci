@@ -69,6 +69,7 @@ This repository serves as a curated collection of coursework and projects comple
 * BME396 - Biomedical Systems Engineering III: Molecules and Cells
 * BME352 - Biomaterials and Biocompatibility
 * JRE300 - Fundamentals of Accounting and Finance
+* JRE 420 - People Management and Organizational Behavior: Consulting Case Study on Nvidia
 
 
 Note: This repository will be updated periodically to include additional coursework and projects as they are completed.
