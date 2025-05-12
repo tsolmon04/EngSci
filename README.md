@@ -65,9 +65,18 @@ This repository serves as a curated collection of coursework and projects comple
 * CHE391 - Organic Chemistry and Biochemistry
 * ESC301 - Engineering Science Option Seminar
 * BME346 - Biomedical Engineering Technologies
+  * Developed a Sensor-Guided System for Improving Transcutaneous Electrical Nerve Stimulation Electrode Placement for Endometriosis-related Dysmenorrhea 
 * BME358 - Molecular Biophysics
 * BME396 - Biomedical Systems Engineering III: Molecules and Cells
+  * DNA Extraction & Quantification Lab
+  * PCR & Electrophoresis Lab
+  * Protein Purification & SDS-PAGE Lab
+  * Quantitative Fluorescence Live/Dead Assay Lab
+  * Ca2+ Imaging in Beta Cells Lab
+  * PDMS Culture Stamp for Cellular Adhesion Lab
+  * Transfection Efficiency Effects of Matrix Stiffness Lab
 * BME352 - Biomaterials and Biocompatibility
+  * Perspective Essay on Biomaterials for the Treatment of Amyotrophic Lateral Sclerosis (ALS)
 * JRE300 - Fundamentals of Accounting and Finance
 * JRE 420 - People Management and Organizational Behavior: Consulting Case Study on Nvidia
 
